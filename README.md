@@ -1,6 +1,6 @@
  <br>
 
- Hello, I'm [Joao Delbin]! <br>
+ Hello, I'm Joao Delbin! <br>
 
 I'm diving into the world of programming and currently focused on learning Python. <br>
 Passionate about simplicity and elegance, I'm exploring the wonders of the Python language to create efficient and effective solutions. <br>
