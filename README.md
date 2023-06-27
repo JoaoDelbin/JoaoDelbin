@@ -1,7 +1,13 @@
- Hi, <br> I’m @JoaoDelbin   <br>
- and I'm currently learning Python
+ <br>
 
-How to reach me 
+ Hello, I'm [Joao Delbin]! <br>
+
+I'm diving into the world of programming and currently focused on learning Python. <br>
+Passionate about simplicity and elegance, I'm exploring the wonders of the Python language to create efficient and effective solutions. <br>
+Through GitHub, I hope to contribute to the community and create projects that inspire others to explore the power of programming. <br>
+
+
+How to reach me <br>
 joao.delbin17@gmail.com
 
 <!---
