@@ -1,3 +1,4 @@
+<br>
 Português:
 <br>
  Oi, eu sou o João, comecei a desenvolvendo com HTML e CSS. No ano de 2023, me formei na linguagem Python para desevolver automaçôes e análises de dados, mas meu interesse e afinidade sempre estiveram no desenvolvimento web e <strong>UX/UI Design</strong>. <br> Agora, estou me aprofundando no <strong>HTML</strong>, <strong>CSS</strong> e <strong>Java</strong> me divertindo e construindo experiências. 😊
