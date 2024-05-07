@@ -8,7 +8,9 @@ Português:
  Estou disponível para novos
         projetos no momento. Entre
         em contato comigo e marcamos
-        uma conversa! 👋 <br>
+        uma conversa! 👋 <br> 
+Entre em contato:    <br> 
+
 joao.delbin17@gmail.com
  <br> 
  <br><br>
@@ -22,7 +24,7 @@ I am available for new
         projects at the moment. 
         Contact me and we'll schedule a talk! 👋 <br>
 
-How to reach me <br>
+Get in touch with me: <br>
 joao.delbin17@gmail.com
 
 <!---
