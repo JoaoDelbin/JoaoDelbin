@@ -8,7 +8,7 @@ Português:
  Estou disponível para novos
         projetos no momento. Entre
         em contato comigo e marcamos
-        uma conversa! 👋 <br> 
+        uma conversa! 👋 <br> <br>
 Entre em contato:    <br> 
 
 joao.delbin17@gmail.com
