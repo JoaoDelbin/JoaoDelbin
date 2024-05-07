@@ -1,11 +1,25 @@
+Português:
+<br>
+ Oi, eu sou o João, comecei a desenvolvendo com HTML e CSS. No ano de 2023, me formei na linguagem Python para desevolver automaçôes e análises de dados, mas meu interesse e afinidade sempre estiveram no desenvolvimento web e <strong>UX/UI Design</strong>. <br> Agora, estou me aprofundando no <strong>HTML</strong>, <strong>CSS</strong> e <strong>Java</strong> me divertindo e construindo experiências. 😊
+ <br>
+ <br>
+ Estou disponível para novos
+        projetos no momento. Entre
+        em contato comigo e marcamos
+        uma conversa! 👋 <br>
+joao.delbin17@gmail.com
+ <br> 
+ <br><br>
+ 
+ English:
  <br>
 
- Hello, I'm Joao Delbin! <br>
-
-I'm diving into the world of programming and currently focused on learning Python. <br>
-Passionate about simplicity and elegance, I'm exploring the wonders of the Python language to create efficient and effective solutions. <br>
-Through GitHub, I hope to contribute to the community and create projects that inspire others to explore the power of programming. <br>
-
+Hi, I'm João, I started developing with HTML and CSS. In the year 2023, I studied the Python language to develop automation and data analysis, but my interest and depth have always been contained in web development and <strong>UX/UI Design</strong>. <br> Now, I'm delving deeper into <strong>HTML</strong>, <strong>CSS</strong> and <strong>Java</strong> having fun and building experiences. 😊
+<br><br>
+I am available for new
+        projects at the moment. In between
+        contact me and we will arrange
+        a conversation! 👋 <br>
 
 How to reach me <br>
 joao.delbin17@gmail.com
