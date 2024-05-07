@@ -1,6 +1,6 @@
 <br>
 Português:
-
+<br>
 <br>
  Oi, eu sou o João, comecei a desenvolvendo com HTML e CSS. No ano de 2023, me formei na linguagem Python para desevolver automaçôes e análises de dados, mas meu interesse e afinidade sempre estiveram no <strong>Desenvolvimento Web</strong>strong> e <strong>UX/UI Design</strong>. <br> Agora, estou me aprofundando no <strong>HTML</strong>, <strong>CSS</strong> e <strong>Java</strong> me divertindo e construindo experiências. 😊
  <br>
@@ -15,7 +15,7 @@ joao.delbin17@gmail.com
  
  English:
  <br>
-
+<br>
 Hello! I'm João, get started developing with HTML and CSS. Last year, I studied Python language to develop Automations and Data Analysis, but my interest have always been contained in <strong> Web Development</strong> and <strong>UX/UI Design</strong>. <br> Now, I'm delving deeper into <strong>HTML</strong>, <strong>CSS</strong> and <strong>Java</strong> having fun and building experiences. 😊
 <br><br>
 I am available for new
