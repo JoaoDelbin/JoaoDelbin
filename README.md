@@ -1,4 +1,4 @@
-English:
+
 Hi, I'm João! I create digital experiences that combine functionality, beauty and purpose.
 
 My skills include web development with HTML5, CSS, and JavaScript, as well as knowledge in UX/UI Design to ensure every project is intuitive, visually appealing, and functional.
